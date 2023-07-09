@@ -1,16 +1,19 @@
-# flutter_bloc_example
 
-A new Flutter project.
+# Simple Flutter Grocery App with BLoC State Management
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Flutter Grocery App with BLOC State Management is a simple mobile application developed using Flutter framework. It serves as a classic example of implementing the BLOC (Business Logic Component) pattern for efficient state management in Flutter applications.
 
-A few resources to get you started if this is your first Flutter project:
+The goal of this project is to provide a functional grocery app where users can add items to their wishlist or cart and even they can remove products from the cart or wishlist.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://github.com/Itz-Shubham/flutter_bloc_example/blob/main/screenshots/Screenshot_1688885040.png?raw=true)
+
+![App Screenshot](https://github.com/Itz-Shubham/flutter_bloc_example/blob/main/screenshots/Screenshot_1688885045.png?raw=true)
+
+![App Screenshot](https://github.com/Itz-Shubham/flutter_bloc_example/blob/main/screenshots/Screenshot_1688885086.png?raw=true)
+
+![App Screenshot](https://github.com/Itz-Shubham/flutter_bloc_example/blob/main/screenshots/Screenshot_1688885107.png?raw=true)
+
+
